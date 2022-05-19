@@ -1,4 +1,3 @@
-### Hello World! 👋
 <!--
 **tom-choi/tom-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +17,12 @@ Here are some ideas to get you started:
 
 A rubbish CS Student
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tom-choi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-choi&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tom-choi&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-choi&count_private=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark" />
+</a>
