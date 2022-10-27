@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 A rubbish CS Student
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tom-choi&theme=onedark" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tom-choi&theme=jolly" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-choi&count_private=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-choi&count_private=true&theme=jolly" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=jolly&hide=jupyter%20notebook&langs_count=8" />
 </a>
