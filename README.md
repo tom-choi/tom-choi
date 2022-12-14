@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 # About me #
 
 A rubbish CS Student
+Blog: https://tom-choi.github.io/
+
+# Reward #
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tom-choi&theme=onedark" />
