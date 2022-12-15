@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # About me #
 
 A rubbish CS Student
+
 Blog: https://tom-choi.github.io/
 
 # Reward #
