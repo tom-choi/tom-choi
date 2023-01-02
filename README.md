@@ -19,6 +19,8 @@ A rubbish CS Student
 
 Blog: https://tom-choi.github.io/
 
+讀書會筆記: https://github.com/cpsumsu/CPS-Study-Club
+
 # Reward #
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
