@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡DISCORD: https://discord.gg/Ua2njAfQCN
 - ⚡單身狗勾指令指南: https://tom-ci.gitbook.io/macau-smp/
 
-![](https://cdn.discordapp.com/attachments/938087996392095774/1056552073954590811/4133.png)
-
 # Reward #
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -37,3 +35,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8" />
 </a>
+
+# Drawing
+
+![](https://cdn.discordapp.com/attachments/938087996392095774/1056552073954590811/4133.png)
