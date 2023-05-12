@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 - A rubbish CS Student
 - C/C++, Python, Gameing Dev, CG, AIGC, drawing, AI
 - Blog(Beta): https://tom-choi.github.io/
-- 讀書會筆記: https://github.com/cpsumsu/CPS-Study-Club
-- DISCORD: https://discord.gg/Ua2njAfQCN
-- 單身狗勾指令指南: https://tom-ci.gitbook.io/macau-smp/
+- [讀書會筆記](https://github.com/cpsumsu/CPS-Study-Club): 
+- [DISCORD](https://discord.gg/Ua2njAfQCN):
+- [單身狗勾指令指南](https://tom-ci.gitbook.io/macau-smp/)
+
+# Repositories #
+- [DoubleSixGame](https://github.com/tom-choi/DoubleSixGame): A Universal Generation Monopoly game template repository (Run by Unity)
+- 
 
 # Reward #
 
