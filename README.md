@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Repositories #
 - [DoubleSixGame](https://github.com/tom-choi/DoubleSixGame): A Universal Generation Monopoly game template repository (Run by Unity)
-- 
+- [C-Programming-note](https://github.com/tom-choi/C-Programming-note): C++筆記
 
 # Reward #
 
