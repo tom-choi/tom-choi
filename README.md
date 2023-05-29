@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 # Repositories #
 - [DoubleSixGame](https://github.com/tom-choi/DoubleSixGame): A Universal Generation Monopoly game template repository (Run by Unity)
 - [C-Programming-note](https://github.com/tom-choi/C-Programming-note): C++筆記
+- [Python-Programming-note](https://github.com/tom-choi/Python-Programming-note): Python筆記，大部分為深度學習
+- [Unity_Learning](https://github.com/tom-choi/Unity_Learning): Unity筆記
+- [CUDA-learning](https://github.com/tom-choi/CUDA-learning): CUDA加速光線追蹤
 
 # Reward #
 
