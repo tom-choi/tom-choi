@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - A rubbish CS Student
 - C/C++, Python, Gameing Dev, CG, AIGC, drawing, AI
 - CPS-學習分享會: https://github.com/cpsumsu/CPS-Study-Club
+- 每日編程: https://github.com/cpsumsu/CodeDaily
 - 單身狗勾指令指南: https://tom-ci.gitbook.io/macau-smp/ : 內置文字MUD遊戲、經濟、買賣遊戲物品、管理社群的多功能系統
 - DISCORD: https://discord.gg/Ua2njAfQCN): Macau-SMP 社群入口
 - Blog(Beta): https://tom-choi.github.io/
