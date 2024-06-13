@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 每日編程: https://github.com/cpsumsu/CodeDaily
 - 單身狗勾指令指南: https://tom-ci.gitbook.io/macau-smp/ : 內置文字MUD遊戲、經濟、買賣遊戲物品、管理社群的多功能系統
 - DISCORD: https://discord.gg/Ua2njAfQCN): Macau-SMP 社群入口
-- Blog(Beta): https://tom-choi.github.io/
+- Blog: www.tomciheng.com
 
 # Repositories #
 - [DoubleSixGame](https://github.com/tom-choi/DoubleSixGame): A Universal Generation Monopoly game template repository (Run by Unity)
