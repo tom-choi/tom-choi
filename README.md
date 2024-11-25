@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # About me #
 
-- A rubbish CS Student
-- C/C++, Python, Gameing Dev, CG, AIGC, drawing, AI
+- A CS Students who loves:
+- ~~C/C++~~, Python, Gameing Dev, CG, AIGC, drawing, AI
 - CPS-學習分享會: https://github.com/cpsumsu/CPS-Study-Club
 - 每日編程: https://github.com/cpsumsu/CodeDaily
 - 單身狗勾指令指南: https://tom-ci.gitbook.io/macau-smp/ : 內置文字MUD遊戲、經濟、買賣遊戲物品、管理社群的多功能系統
@@ -43,3 +43,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8" />
 </a>
+
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=6bLEUSKV8x&theme=light" alt="Tom_ci's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=6bLEUSKV8x&theme=dark" alt="Tom_ci's LeetCode Stats" width="49%" /> 
+</p>
