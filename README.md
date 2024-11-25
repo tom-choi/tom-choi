@@ -44,7 +44,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8" />
 </a>
 
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode?username=6bLEUSKV8x&cn=true&theme=light" alt="Tom_ci's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/leetcode?username=6bLEUSKV8x&cn=true&theme=dark" alt="Tom_ci's LeetCode Stats" width="49%" /> 
-</p>
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=6bLEUSKV8x&cn=true)
+
