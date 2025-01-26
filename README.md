@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Blog: www.tomciheng.com
 
 # Repositories #
+- [《泡泡戰士》《バブル●ファイター》](https://github.com/tom-choi/bubblesShooter): 2025年自主研發的本地多人遊戲
 - [DoubleSixGame](https://github.com/tom-choi/DoubleSixGame): A Universal Generation Monopoly game template repository (Run by Unity)
 - [C-Programming-note](https://github.com/tom-choi/C-Programming-note): C++筆記
 - [Python-Programming-note](https://github.com/tom-choi/Python-Programming-note): Python筆記，大部分為深度學習
