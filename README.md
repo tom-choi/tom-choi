@@ -33,17 +33,7 @@ Here are some ideas to get you started:
 
 # Reward #
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=tom-choi&theme=onedark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-choi&count_private=true&theme=onedark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-choi&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![力扣数据](https://stats.justsong.cn/api/leetcode?username=6bLEUSKV8x&cn=true)
 
